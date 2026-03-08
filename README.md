@@ -81,58 +81,5 @@ When the app detects signs of stress (low mood logs, long sessions, exam tags), 
 
 <img width="532" height="364" alt="Gemini_Generated_Image_gdc21jgdc21jgdc2" src="https://github.com/user-attachments/assets/be52777a-0e54-455c-b466-2c0933bc31d0" />
 
-<img width="524" height="324" alt="Gemini_Generated_Image_9u8dh59u8dh59u8d" src="https://github.com/user-attachments/assets/41ce13e4-b69e-4c9e-b6f9-15254e0528f9" />
+<img width="524" height="524" alt="Gemini_Generated_Image_9u8dh59u8dh59u8d" src="https://github.com/user-attachments/assets/41ce13e4-b69e-4c9e-b6f9-15254e0528f9" />
 
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|---|---|
-| Development Environment | [Replit](https://replit.com) |
-| Deployment | App Store & Google Play (via Replit publishing) |
-| AI Engine | Large Language Model Integration |
-| Platform | iOS & Android (Cross-platform) |
-
-> UniMind is being developed entirely on **Replit**, which enables publishing directly to the App Store — making cross-platform development accessible from any machine.
-
----
-
-## 🚀 Getting Started
-
-> ⚙️ *Setup and installation instructions will be added as the project reaches a deployable state.*
-
----
-
-## 🤝 Contributing
-
-UniMind is a student-built project in active development. Contributions, feedback, and ideas are welcome.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add: your feature description'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
-Please open an issue first to discuss any major changes.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgements
-
-Built with purpose by a student who understands firsthand what it's like to navigate university without enough support. UniMind exists because that experience shouldn't be the norm.
-
----
-
-<div align="center">
-
-*Made with 💚 for students, by a student.*
-
-</div>
