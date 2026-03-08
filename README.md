@@ -79,9 +79,10 @@ When the app detects signs of stress (low mood logs, long sessions, exam tags), 
 
 ## 📱 UI Previews
 
-<img width="1232" height="864" alt="Gemini_Generated_Image_gdc21jgdc21jgdc2" src="https://github.com/user-attachments/assets/be52777a-0e54-455c-b466-2c0933bc31d0" />
+<img width="532" height="364" alt="Gemini_Generated_Image_gdc21jgdc21jgdc2" src="https://github.com/user-attachments/assets/be52777a-0e54-455c-b466-2c0933bc31d0" />
 
-![Uploading Gemini_Generated_Image_9u8dh59u8dh59u8d.png…]()
+<img width="524" height="324" alt="Gemini_Generated_Image_9u8dh59u8dh59u8d" src="https://github.com/user-attachments/assets/41ce13e4-b69e-4c9e-b6f9-15254e0528f9" />
+
 
 ---
 
