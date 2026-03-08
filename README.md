@@ -79,20 +79,9 @@ When the app detects signs of stress (low mood logs, long sessions, exam tags), 
 
 ## 📱 UI Previews
 
-```
-┌──────────────────────────────────────┐    ┌──────────────────────────────────────┐
-│  Good Morning, Alex!                 │    │  Session Complete! 🎉                │
-│                                      │    │                                      │
-│             🐻‍❄️                     │    │  Goal: 50 Minutes                    │
-│    [Animated Polar Bear waving]      │    │  Actual Focus: 40 Minutes            │
-│                                      │    │                                      │
-│  "How are you feeling right now?"    │    │  Distractions logged:                │
-│                                      │    │  • Instagram (2 times)               │
-│     [😢]  [😐]  [🙂]  [😊]           │    │                                      │
-│                                      │    │  Confidence: ⭐⭐⭐⭐⭐               │
-│  [⏱️ Focus Contract] [📚 Study AI]    │    │  [Save to My Insights]               │
-└──────────────────────────────────────┘    └──────────────────────────────────────┘
-```
+<img width="1232" height="864" alt="Gemini_Generated_Image_gdc21jgdc21jgdc2" src="https://github.com/user-attachments/assets/be52777a-0e54-455c-b466-2c0933bc31d0" />
+
+![Uploading Gemini_Generated_Image_9u8dh59u8dh59u8d.png…]()
 
 ---
 
